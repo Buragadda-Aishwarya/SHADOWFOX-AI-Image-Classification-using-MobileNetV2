@@ -11,4 +11,4 @@ This project uses the MobileNetV2 architecture to classify images into 1,000 cat
 - Visual output using Matplotlib.
 
 ## Tech Stack
-- Python, TensorFlow/Keras, NumPy, Matplotlib.The Files You Should Upload
+- Python, TensorFlow/Keras, NumPy, Matplotlib.
